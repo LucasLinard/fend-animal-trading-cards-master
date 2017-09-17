@@ -1,0 +1,46 @@
+/* add your CSS here */
+.animal_card {
+  width: 340px;
+  -moz-box-shadow:    5px 5px #ccc;
+  -webkit-box-shadow: 5px 5px #ccc;
+  box-shadow:         5px 5px #ccc;
+  border: 1px solid gray;
+
+
+}
+.name {
+  padding: 10px;
+  margin: 10px;
+}
+.image {
+  padding: 10px;
+  border: 1px solid gray;
+  margin: 10px;
+  max-width:300px;
+  max-height:300px;
+  width: auto;
+  height: auto;
+
+}
+.information {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid gray;
+  margin: 10px;
+}
+.interesting_fact {
+  font-style: italic;
+}
+.list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+.list_item_label {
+  font-weight:bold;
+
+}
+.description {
+
+}
